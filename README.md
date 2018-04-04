@@ -1,6 +1,6 @@
 # weather-card
 
-> Weather Card for Vuetify Dovs
+> Weather Card for Vuetify Docs
 
 ## Build Setup
 
